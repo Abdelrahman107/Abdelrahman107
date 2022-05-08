@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mobile Development**
 
-- 💬 Ask me about **Flutter,Data Science,Python**
+- 💬 Ask me about **Flutter, Data Science, Python**
 
 - 📫 How to reach me **abdelrahmanfangary@gmail.com**
 
