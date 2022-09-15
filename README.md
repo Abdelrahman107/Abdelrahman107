@@ -7,9 +7,9 @@
 
 - 🔭 I’m a Fresh Grad Software Engineer who is very enthusiastic about **building maintainable and scalable systems**
 
-- 🌱 I’m currently learning **Backend Devolopment**
+- 🌱 I’m currently advancing my skills in **Backend Devolopment**
 
-- 💬 Ask me about **Flutter,Data Science,Python,NodeJS**
+- 💬 Ask me about **NodeJS,Typescript,Python**
 
 - 📫 How to reach me **abdelrahmanfangary@gmail.com**
 
