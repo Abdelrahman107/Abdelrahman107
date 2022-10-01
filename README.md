@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelrahman107&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman107" /> </p>
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3500&center=true&vCenter=true&lines=Software+Engineer+%7C+Backend+Developer;Data+Science+%7C+Backend+%7CAlgorithms"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+Devoloper;Nodejs+%7C+PostgreSQL" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m a Fresh Grad Software Engineer who is very enthusiastic about **building maintainable and scalable systems**
